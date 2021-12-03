@@ -40,4 +40,4 @@ Start Jupyter server:
 
 	jupyter notebook
 	
-Open the browser, download the tutorial notebook and start experimenting!
+Open the browser, download [the tutorial notebook](https://github.com/HYTE-research/SAGE-data-hellobrother/blob/main/Full%20Tutorial.ipynb) and start experimenting!
