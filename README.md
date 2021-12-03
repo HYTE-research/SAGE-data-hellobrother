@@ -4,9 +4,7 @@ Our tutorial *Learn to rehydrate Twitter data using Python: case #hellobrother* 
 
 The full analysis process is described in the following publication:
 
-<div style="margin-left: 25pt">
 Harju, A. A., & Huhtamäki, J. (2021). ‘#hellobrother needs to trend’: methodological reflections on the digital and emotional afterlife of mediated violence. *International Review of Sociology, 31(2), 1–32.* [https://doi.org/10.1080/03906701.2021.1947951](https://doi.org/10.1080/03906701.2021.1947951)
-</div>
 
 The full tutorial will be available under SAGE [Research Methods](https://methods.sagepub.com/) and its upcoming collection Doing Research Online. Specifically, this tutorial is part of Datasets, short, very practical and accessible teaching articles, where excerpts of real data are provided and used as an example to teach a particular data analysis method or technique. They are intended to give insight into how an experienced researcher could use a technique to answer a research question. 
 
